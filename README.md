@@ -1,4 +1,4 @@
-# TS3-MUSIKBOT
+# INTNET-TS3-MUSICBOT
 DESOLIC-IT PROJECT 25G524
 
 Gehärtetes Container-Image für einen TeamSpeak-3-Musikbot auf Basis von
