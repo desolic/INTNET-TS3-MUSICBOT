@@ -54,7 +54,6 @@ sha256sum ffmpeg-*-linux64-gpl.tar.xz   # -> FFMPEG_SHA256
 
 ## Dokumentation
 
-- [`DATENSCHUTZ.md`](DATENSCHUTZ.md) — DSGVO-Dokumentation (Art. 30/13/32)
 - `config/*.example` — gehärtete Konfigurations-Vorlagen
 - `kubernetes/ts3audiobot.yaml` — gehärtetes Deployment
 
